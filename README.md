@@ -1,3 +1,6 @@
+Application works only on devices running iOS 12 and ARKit2  
+
+
 # Scanning and Detecting 3D Objects
 
 Record spatial features of real-world objects, then use the results to find those objects in the user's environment and trigger AR content.
